@@ -1,0 +1,10 @@
+C:\Users\sns_k\source\repos\Personel_Tablo\Personel_Tablo\bin\Debug\Personel_Tablo.exe.config
+C:\Users\sns_k\source\repos\Personel_Tablo\Personel_Tablo\bin\Debug\Personel_Tablo.exe
+C:\Users\sns_k\source\repos\Personel_Tablo\Personel_Tablo\bin\Debug\Personel_Tablo.pdb
+C:\Users\sns_k\source\repos\Personel_Tablo\Personel_Tablo\obj\Debug\Personel_Tablo.csproj.AssemblyReference.cache
+C:\Users\sns_k\source\repos\Personel_Tablo\Personel_Tablo\obj\Debug\Personel_Tablo.Form1.resources
+C:\Users\sns_k\source\repos\Personel_Tablo\Personel_Tablo\obj\Debug\Personel_Tablo.Properties.Resources.resources
+C:\Users\sns_k\source\repos\Personel_Tablo\Personel_Tablo\obj\Debug\Personel_Tablo.csproj.GenerateResource.cache
+C:\Users\sns_k\source\repos\Personel_Tablo\Personel_Tablo\obj\Debug\Personel_Tablo.csproj.CoreCompileInputs.cache
+C:\Users\sns_k\source\repos\Personel_Tablo\Personel_Tablo\obj\Debug\Personel_Tablo.exe
+C:\Users\sns_k\source\repos\Personel_Tablo\Personel_Tablo\obj\Debug\Personel_Tablo.pdb
